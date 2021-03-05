@@ -1,6 +1,4 @@
-name = GALO SENGAN
-realname = GALO SENGAN
-facerank = GALORANK
+name = Galo Sengenrealname = Galo Sengenfacerank = GALORANK
 facewant = GALOWANT
 facemmap = GALOMMAP
 kartspeed = 6

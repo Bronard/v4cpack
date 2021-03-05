@@ -1,0 +1,35 @@
+name = Galo Sengen
+realname = Galo Sengen
+facerank = GALORANK
+
+facewant = GALOWANT
+
+facemmap = GALOMMAP
+
+kartspeed = 6
+
+kartweight = 5
+
+startcolor = 160
+
+prefcolor = olive
+
+DSKGLOAT = DSGALOGL
+
+DSKWIN = DSGALOWI
+DSKLOSE = DSGALOLS
+
+DSKSLOW = DSGALOSL
+DSKHURT1 = DSGALOH1
+
+DSKHURT2 = DSGALOH2
+
+DSKATTK1 = DSGALOA1
+
+DSKATTK2 = DSGALOA2
+
+DSKBOST1 = DSGALOB1
+
+DSKBOST2 = DSGALOB2
+
+DSKHITEM = DSGALOHT

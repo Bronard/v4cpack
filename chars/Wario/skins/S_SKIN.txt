@@ -1,4 +1,4 @@
-name = WarioKart
+name = Wario
 realname = Wario
 facerank = WKRTRANK
 facewant = WKRTWANT
